@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parker-martel
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
 <!---
