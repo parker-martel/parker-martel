@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @parker-martel
-- 👀 I’m interested in computer science
-- 🌱 I’m currently 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 👀 Student at California State University, Fullerton
+- 🌱 [Personal portfolio website!](https://parker-martel.github.io)
 
 <!---
 parker-martel/parker-martel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
