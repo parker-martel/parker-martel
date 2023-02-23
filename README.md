@@ -1,4 +1,4 @@
-##### - 👋 Hi, I’m @parker-martel
+##### - 👋 Hi, I’m Parker Martel
 ##### - 📍 Student at California State University, Fullerton
 ##### - 🌱 [Personal portfolio website!](https://parker-martel.github.io)
 
