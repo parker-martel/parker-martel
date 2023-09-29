@@ -1,6 +1,6 @@
 ##### - 👋 Hi, I’m Parker Martel
 ##### - 📍 Student at California State University, Fullerton
-##### - 🌱 [Personal portfolio website!](https://parker-martel.github.io)
+##### - 🌱 Check out my [Personal portfolio website!](https://parker-martel.github.io)
 
 <!---
 parker-martel/parker-martel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
