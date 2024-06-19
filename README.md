@@ -4,6 +4,10 @@
 [![Resume link](https://img.shields.io/badge/Resume-FF0000?style=for-the-badge)](https://parker-martel.github.io/assets/Resume-2.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E2E2E?style=for-the-badge)](https://parker-martel.github.io/)
 
+## 🙋‍♂️ About me
+
+I'm a recent graduate from California State University, Fullerton 📚 with a BS in Computer Science 💻. Currently living in California 📍, I am open to work and looking for my first entry level software job!
+
 ##### - 👋 Hi, I’m Parker Martel. I'm a recent graduate from California State University, Fullerton with a BS in Computer Science looking for my first entry-level software job!
 ##### - 📍 Student at California State University, Fullerton
 ##### - 🌱 Check out my [Personal portfolio website!](https://parker-martel.github.io)
