@@ -6,11 +6,12 @@
 
 ## 🙋‍♂️ About me
 
-I'm a recent graduate from California State University, Fullerton with a B.S. in Computer Science 💻. Currently living in California ☀️, I am open to work and looking for my first entry level software job! I develop mostly in python, but can adapt and learn other technologies if need be! 
+I'm a recent graduate from California State University, Fullerton with a B.S. in Computer Science 💻. Currently living in California ☀️, I am open to work and looking for my first entry level software job! I develop mostly in python, but can quickly adapt and learn other technologies if need be! 
 
-##### - 👋 Hi, I’m Parker Martel. I'm a recent graduate from California State University, Fullerton with a BS in Computer Science looking for my first entry-level software job!
-##### - 📍 Student at California State University, Fullerton
-##### - 🌱 Check out my [Personal portfolio website!](https://parker-martel.github.io)
+## 🌱 My Skillset
+
+[![python logo](![image](https://github.com/parker-martel/parker-martel/assets/112444705/f4a40150-b663-4d1a-a536-448d26e38e20)
+)]
 
 <!---
 parker-martel/parker-martel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
