@@ -25,7 +25,7 @@ I'm a recent graduate from California State University, Fullerton with a B.S. in
 
 ## 📫 How to reach me
 
-[<img src="assets/envelope.png" height="50px">](mailto:parkermartel48@gmail.com)
+[<img src="https://github.com/parker-martel/parker-martel/assets/112444705/ca73a4d0-d360-48e0-8fc4-9aba07107a3d" height="50px">](mailto:parkermartel48@gmail.com)
 
 
 
