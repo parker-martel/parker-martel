@@ -20,7 +20,7 @@ I'm a recent graduate from California State University, Fullerton with a B.S. in
 [<img src="https://github.com/parker-martel/parker-martel/assets/112444705/53e53be9-f597-4c80-8459-de71c22de498" height="120px">](https://github.com/parker-martel/Snake-Finder)
 [<img src="https://github.com/parker-martel/parker-martel/assets/112444705/668a6d9b-8c30-46a4-bc22-e414dadf7cf5" height="120px">](https://github.com/JohnHerron/SpeedReeds)
 [<img src="https://github.com/parker-martel/parker-martel/assets/112444705/d3cbf97e-9066-4638-98e6-7b5e5ede52c5" height="120px">](https://github.com/parker-martel/University-Database)
-[<img src="https://github.com/parker-martel/parker-martel/assets/112444705/36effed3-82b9-422e-accf-c515245a3f26" height="120px">](https://github.com/parker-martel/cpsc349-rock-paper-scissors)
+[<img src="https://github.com/parker-martel/parker-martel/assets/112444705/57a753bf-a87d-4622-bc04-70efa8bae840" height="120px">](https://github.com/parker-martel/cpsc349-rock-paper-scissors)
 
 
 
