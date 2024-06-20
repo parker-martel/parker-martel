@@ -10,8 +10,8 @@ I'm a recent graduate from California State University, Fullerton with a B.S. in
 
 ## 🌱 My Skillset
 
-[![python logo](![image](https://github.com/parker-martel/parker-martel/assets/112444705/f4a40150-b663-4d1a-a536-448d26e38e20)
-)]
+![image](https://github.com/parker-martel/parker-martel/assets/112444705/01d8944d-a66f-4cc7-bd7d-d92ac0a9c643)
+
 
 <!---
 parker-martel/parker-martel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
