@@ -14,7 +14,8 @@ I'm a recent graduate from California State University, Fullerton with a B.S. in
 
 ## 🔨 Projects i've contributed to
 
-[<img src="https://github.com/parker-martel/parker-martel/assets/112444705/53e53be9-f597-4c80-8459-de71c22de498" height="120px" style="border-radius: 50%;">](https://github.com/parker-martel/Snake-Finder)
+[<img src="https://github.com/parker-martel/parker-martel/assets/112444705/53e53be9-f597-4c80-8459-de71c22de498" height="120px">](https://github.com/parker-martel/Snake-Finder)
+[<img src="https://github.com/parker-martel/parker-martel/assets/112444705/6cc5294f-d6ca-4edd-9df0-e11b06208c7e" height="120px">]([https://github.com/JohnHerron/SpeedReeds)
 
 
 
