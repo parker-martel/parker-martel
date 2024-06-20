@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About me
 
-I'm a recent graduate from California State University, Fullerton with a B.S. in Computer Science 💻. Currently living in California 📍, I am open to work and looking for my first entry level software job!
+I'm a recent graduate from California State University, Fullerton with a B.S. in Computer Science 💻. Currently living in California ☀️, I am open to work and looking for my first entry level software job! I develop mostly in python, but can adapt and learn other technologies if need be! 
 
 ##### - 👋 Hi, I’m Parker Martel. I'm a recent graduate from California State University, Fullerton with a BS in Computer Science looking for my first entry-level software job!
 ##### - 📍 Student at California State University, Fullerton
