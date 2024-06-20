@@ -10,8 +10,8 @@ I'm a recent graduate from California State University, Fullerton with a B.S. in
 
 ## 🌱 My Skillset
 
-[<img src="https://github.com/parker-martel/parker-martel/assets/112444705/b2ca25b5-564d-4c0c-b48b-d529ed2acafd" height="50px">]
-[<img src="https://github.com/parker-martel/parker-martel/assets/112444705/e763aa51-f47d-43d9-88c1-08b80d456afb" height="50px">]
+<img src="https://github.com/parker-martel/parker-martel/assets/112444705/b2ca25b5-564d-4c0c-b48b-d529ed2acafd" height="50px"> <img src="https://github.com/parker-martel/parker-martel/assets/112444705/e763aa51-f47d-43d9-88c1-08b80d456afb" height="50px"> ![image](https://github.com/parker-martel/parker-martel/assets/112444705/163e9186-3616-4626-b632-7948a8f1f246)
+
 
 
 <!---
