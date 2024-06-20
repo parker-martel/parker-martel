@@ -23,7 +23,9 @@ I'm a recent graduate from California State University, Fullerton with a B.S. in
 [<img src="https://github.com/parker-martel/parker-martel/assets/112444705/57a753bf-a87d-4622-bc04-70efa8bae840" height="120px">](https://github.com/parker-martel/cpsc349-rock-paper-scissors)
 [<img src="https://github.com/parker-martel/parker-martel/assets/112444705/3aed5999-237d-44e0-8479-dd764eec3222" height="120px">](https://github.com/parker-martel/unix-shell)
 
+## 📫 How to reach me
 
+[<img src="assets/envelope.png" height="50px">](mailto:parkermartel48@gmail.com)
 
 
 
