@@ -15,7 +15,7 @@ I am a recent graduate of California State University, Fullerton, with a B.S. in
 <img src="https://github.com/parker-martel/parker-martel/assets/112444705/b2ca25b5-564d-4c0c-b48b-d529ed2acafd" height="50px"> <img src="https://github.com/parker-martel/parker-martel/assets/112444705/e763aa51-f47d-43d9-88c1-08b80d456afb" height="50px"> <img src="https://github.com/parker-martel/parker-martel/assets/112444705/163e9186-3616-4626-b632-7948a8f1f246" height="50px"> <img src="https://github.com/parker-martel/parker-martel/assets/112444705/5c769abf-5929-44c8-a16a-df4b1cf9b54d" height="50px"> <img src="https://github.com/parker-martel/parker-martel/assets/112444705/02901267-5b3a-4133-b62c-6c24c2243d1f" height="50px"> <img src="https://github.com/parker-martel/parker-martel/assets/112444705/cfea64b4-060c-49cf-a489-e2267070b5f6" height="50px"> <img src="https://github.com/parker-martel/parker-martel/assets/112444705/5497bb36-9b81-48ee-af07-9dd2c5747f08" height="50px"> <img src="https://github.com/parker-martel/parker-martel/assets/112444705/dc7f9f7e-a7c2-4e68-8d4c-dd5a7768ba71" height="50px"> 
 
 
-## 🔨 Projects i've contributed to
+## 🔨 Projects I've contributed to
 
 [<img src="https://github.com/parker-martel/parker-martel/assets/112444705/53e53be9-f597-4c80-8459-de71c22de498" height="120px">](https://github.com/parker-martel/Snake-Finder)
 [<img src="https://github.com/parker-martel/parker-martel/assets/112444705/668a6d9b-8c30-46a4-bc22-e414dadf7cf5" height="120px">](https://github.com/JohnHerron/SpeedReeds)
