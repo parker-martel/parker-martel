@@ -7,8 +7,7 @@
 
 ## 🙋‍♂️ About me
 
-I am a recent graduate of California State University, Fullerton, with a B.S. in Computer Science 💻. Based in California ☀️, I am actively seeking my first entry-level software development position. My primary programming language is Python, but I am adept at quickly learning and adapting to new technologies. I am enthusiastic about exploring new tech stacks and look forward to contributing to a dynamic team in a junior role!
-
+I am a recent graduate of California State University, Fullerton, with a B.S. in Computer Science 💻. Based in California ☀️, I am actively seeking my first entry-level software development position. My primary programming language is Python, but I am open to learning and adapting to new tech stacks. I am enthusiastic about exploring new areas of computer science and look forward to contributing to a dynamic team in a junior role!
 
 ## 🌱 My skillset
 
